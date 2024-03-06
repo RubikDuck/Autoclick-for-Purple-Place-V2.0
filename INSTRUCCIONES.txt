@@ -1,47 +1,44 @@
 INSTRUCCIONES:
-
 ETAPA 1:
-Paso 1: Abre el juego Purple Place y minimizalo. (asegurate de haber escogido la dificultad "Dificil" previamente y haner marcado la opcion de "No volver a preguntar").
+  Paso 1: Abre el juego Purple Place y minimízalo. (Asegúrate de haber seleccionado previamente la dificultad "Hard" y la opción "No preguntar de       nuevo".)
 
-Paso 2: Ejecuta el "First script" y aparecerá una consola de comandos.
+  Paso 2: Ejecuta el "First script"; aparecerá una consola de comandos.
+    ADVERTENCIA: Es posible que tu "Windows Defender" impida que se ejecute el archivo, esto no significa que sea un virus (puedes revisar el código      y verificarlo). Solo debes permitir que se ejecute. En este punto, es posible que tu ratón se vuelva un poco lento, eso es normal, así que no te      preocupes.
 
-WARNING: Es posible es que tu "Windows defender" evite que el archivo se ejecute, esto no significa que sea un virus (puedes revisar el código y verificarlo). Asi que solo debes permitir que se ejecute. En este punto, es posible que tu mouse se haya vuelto un poco lento, eso es normal asi que no te preocupes.
+  Paso 3: No hagas clic en ninguna parte, solo puedes mover el ratón (sí, esto es un paso).
 
-Paso 3: No hagas click en ninguna parte, solo puedras mover el mouse (si, este es un paso).
+  Paso 4: Usa Alt+Tab para llevar el juego a la pantalla principal.
 
-Paso 4: Usa Alt+Tab para traer el juego a la pantalla.
+  Paso 5: Realiza la siguiente secuencia de clics:
+    ADVERTENCIA: REALIZA solo los clics necesarios. SOLO si tu ratón deja de moverse, usa Crtl+C entre cada uno de los clics que hagas durante la         secuencia.
+    - Juego de la ropa.
+    - Selecciona una de cada prenda, (cualquiera) (1 cabeza, 1 ojo, 1 nari, 1 boca, 1 prenda).
+    - Selecciona la casilla de verificación.
+    - Regresa al menú principal.
 
-Paso 5: Haz la siguiente secuencia de "Clicks":
+  Paso 6: Usa Alt+Tab nuevamente para colocar la consola de comandos en la pantalla y presiona Crtl+C.
 
-WARNING: SOLO haz los clicks necesarios. SOLO si tu mouse deja de moverse, utiliza Crtl+C entre cada uno de los clicks que hagas durante la secuencia.
-
-- Juego de la ropa.
-- Selecciona una ropa de cada una (cualquiera) (1 cabeza, 1 ojo, 1 nariz, 1 boca y 1 ropa).
-- Selecciona la casilla para comprobar si la ropa es correcta.
-- Vuelve al menú principal.
-
-Paso 6: Usa nuevamente Alt+Tab para colocar la consola de comandos en la pantalla y presiona Crtl+C.
-
-Paso 7: Si lo hiciste bien, la consola se detendrá y verás 16 coordenadas exactamente en el apartado de "Ur moves". Copia y pega esas coordenadas en un bloc de notas. Ahora cierra la consola y el juego.
-
-WARNING: Si la consola no se detiene, simplemente sigue presionando Crtl+C.
+  Paso 7: Si lo hiciste correctamente, la consola se detendrá y verás exactamente 16 coordenadas en la sección "Ur moves". Copia y pega esas            coordenadas en un Bloc de notas. Ahora, cierra la consola y el juego.
+    ADVERTENCIA: Si la consola no se detiene, simplemente sigue presionando Crtl+C.
 
 ETAPA 2:
-Paso 1: Ejecuta el "Second script", aparecerá una consola de comandos (la cual debes minimizar) y un cuadro donde podrás pegar las coordenadas (en el cuadro que dice "Ur moves") que obtuviste con el script anterior.
+  Paso 1: Ejecuta el "Second script"; aparecerá una consola de comandos (debes minimizarla) y una ventana donde podrás pegar las coordenadas (en la      parte que dice "Ur moves") que obtuviste con el script anterior.
 
-Paso 3: Abre el juego Purple Place y usa Alt+Tab para traer a la pantalla principal el cuadro donde tenías pegadas las coordenadas.
+  Paso 2: Abre el juego Purple Place y usa Alt+Tab para llevar la ventana donde tenías las coordenadas pegadas a la pantalla principal.
 
-Paso 4: Introduce la cantidad de veces que se repetirá el bucle (la primera vez introduce 3 repeticiones para que veas que todo está bien).
+  Paso 3: Ingresa la cantidad de veces que deseas que se repita el bucle (la primera vez ingresa 3 repeticiones para asegurarte de que todo esté        bien).
+    ADVERTENCIA: Después del próximo paso, la única forma de detener el programa son:
+      1. Presionando el botón "Stop" (lo cual es complicado durante el bucle).
+      2. Esperar a que terminen las repeticiones que fueron ingresadas.
+      3. Apagando la computadora.
 
-WARNING: Luego del siguiente paso la unica forma de detener el programa es presionando el botón "Stop" (lo cual es complicado durante el bucle) y apagando el computador.
-
-Paso 5: Cuando todo está introducido, presiona el boton "Start", rápidamente minimiza el cuadro para tener juego Purple Place en la pantalla principal y mira la magia.
+  Paso 4: Cuando todo esté ingresado, presiona el botón "Start", minimiza la caja para tener el juego Purple Place en la pantalla principal y observa   la magia.
 
 RECOMENDACIONES:
-- Si haces esto durante el día, comienza con un numero bajo de repeticiones, son 3,125 combinaciones de ropa en total, asi que puedes iniciar con 300 repeticiones.
-- Si haces esto durante la noche, puedes aumentar el numero de repeticiones a 1,500 o 3,125, como tu prefieras.
+- Si haces esto durante el día, comienza con un número bajo de repeticiones; hay 3,125 combinaciones de ropa, así que puedes empezar con 300 repeticiones.
+- Si haces esto durante la noche, puedes aumentar el número de repeticiones a 1,500 o 3,125, según tu preferencia.
+- Si encuentras errores o problemas con los scripts, deja tus comentarios.
 
-Si tienes algún bug o problema con los scripts coméntalo.
-
-Eso es todo, espero que obtengas tu logro.
-Ten un buen día.
+Eso es todo, espero que obtengas tu logro y no olvides calificar esta guía.
+Que tengas un buen día.
+(👍≖‿‿≖)👍
