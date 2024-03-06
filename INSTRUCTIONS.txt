@@ -1,0 +1,47 @@
+INSTRUCTIONS:
+STAGE 1:
+Step 1: Open the Purple Place game and minimize it. (make sure you have previously chosen the "Hard" difficulty and the "Don't ask again" option.)
+
+Step 2: Run the "First script", a command console will appear.
+
+WARNING: It is possible that your "Windows defender" prevents the file from running, this does not mean that the file is a virus (you can check the code and verify it). So you just have to allow it to run. At this point, it's possible that your mouse became a little slow, that's normal so don't worry.
+
+Step 3: Don't click anywhere, you can only move the mouse (yes, this is a step).
+
+Step 4: Use Alt+Tab to bring the game to the screen.
+
+Step 5: Do the following sequence of "Clicks":
+
+WARNING: ONLY make the necessary clicks. ONLY if your mouse stops moving, use Crtl+C between each of the clicks you make during the sequence.
+
+- Clothing game.
+- Select one of each clothing, (any) (1 head, 1 eyes, 1 nose, 1 mouth, 1 clothe).
+- Select the check box.
+- Return to the main menu.
+
+Step 6: Use Alt+Tab again to place the command console on the screen and press Crtl+C.
+
+Step 7: If you did it right, the console will stop and you will see exactly 16 coordinates in the "Ur moves" section. Copy and paste those coordinates into a Notepad. Now close the console and the game.
+
+WARNING: If the console doesn't stop, just keep pressing Crtl+C.
+
+
+STAGE 2:
+Step 1: Run the "Second script", a command console will appear (which you must minimize) and a box where you can paste the coordinates (in the box that says "Ur moves") that you obtained with the previous script.
+
+Step 3: Open the Purple Place game and use Alt+Tab to bring the box where you had the coordinates pasted to the main screen.
+
+Step 4: Enter the number of times you want the loop to repeat (the first time enter 3 repetitions, so you can see that everything is fine).
+
+WARNING: After the next step the only way to stop the program is by pressing the "Stop" button (which is complicated during the loop) and turning off the computer.
+
+Step 5: When everything is entered, press the "Start" button, minimize the box to have Purple Place game on the main screen and watch the magic.
+
+RECOMMENDATIONS:
+- If you do this during the day, start with a low number of loops, there are 3,125 clothing combinations, so you can start with 300 repetitions.
+- If you do this overnight, you can increase the number of repetitions to 1,500 or 3,125, as you prefer.
+
+If you have any bugs or problems with the scripts, comment.
+
+That's all, I hope you get your achievement.
+Have a nice day.
