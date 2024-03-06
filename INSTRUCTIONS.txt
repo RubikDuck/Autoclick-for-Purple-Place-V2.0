@@ -28,7 +28,10 @@ STAGE 2:
   Step 2: Open the Purple Place game and use Alt+Tab to bring the box where you had the coordinates pasted to the main screen.
 
   Step 3: Enter the number of times you want the loop to repeat (the first time enter 3 repetitions, so you can see that everything is fine).
-    WARNING: After the next step the only way to stop the program is by pressing the "Stop" button (which is complicated during the loop) and turning     off the computer.
+    WARNING: After the next step, the only way to stop the program is by:
+      1. Pressing the 'Stop' button (which is complicated during the loop).
+      2. Waiting for the entered repetitions to finish.
+      3. Turning off the computer.
 
   Step 4: When everything is entered, press the "Start" button, minimize the box to have Purple Place game on the main screen and watch the magic.
 
